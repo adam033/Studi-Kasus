@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ME</string>
+    <string name="nama_ruqul_adam_himawan">Nama = Ruqul Adam Himawan!</string>
+    <string name="TTL">Tempat Tanggal Lahir : Blitar, 8 Febbruari 2004</string>
+    <string name="Nama">Nama : Ruqul Adam Himawan</string>
+    <string name="Alamat">Alamat : Blitar</string>
+    <string name="Nomer">NO HP : 0859193774917</string>
+    <string name="Hobi">Hobi : Bermain Game dan Desain</string>
+    <string name="Keinginan">Keinginan : Menjadi konsisten , membahagiakan orang tua dan menjadi orang yang bermanfaat dunia akhirat</string>
+</resources>
