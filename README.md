@@ -6,3 +6,4 @@ Dalam praktikum kedua ini kita akan belajar membuat biodata pada aplikasi pada a
 **___________________________________________________________________________________________________________________________** <br>
 
 **Dan untuk RUN aplikasi ini menggunakan emulator dan disambungkan lewat HP  sehingga bisa di run dan dilihat melalui emulator yang telah di run** <br>
+##### Note : Perhatikan untuk emulatrnya harus sesuai dengan spesifikasi HP anda
